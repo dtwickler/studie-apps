@@ -1,0 +1,225 @@
+{
+  "titel": "BookTok : quand TikTok fait lire les jeunes",
+  "thema": "cultuur & sociale media",
+  "bron": "Oefentekst in examenstijl (zelf geschreven; personen en cijfers zijn verzonnen)",
+  "tekst": [
+    "On les accuse souvent de ne plus lire. Pourtant, dans les librairies, une scène inattendue se répète : des adolescents se pressent devant une table où sont empilés des romans, avec un petit panneau « Vu sur TikTok ». Le phénomène porte un nom : BookTok. Sur le réseau social, des milliers de jeunes publient de courtes vidéos où ils parlent, souvent avec beaucoup d'émotion, des livres qu'ils ont aimés.",
+    "L'effet sur les ventes est spectaculaire. Certains romans, parfois publiés il y a dix ans et presque oubliés, se retrouvent soudain en tête des classements. « Un titre qui devient viral peut se vendre à des dizaines de milliers d'exemplaires en quelques semaines », explique Marion, libraire à Bordeaux. « Pour nous, c'est une chance inespérée. »",
+    "Ce qui séduit les jeunes lecteurs, c'est d'abord l'authenticité. Ici, pas de critique littéraire en costume, mais des lecteurs de leur âge qui pleurent devant la caméra à la fin d'un roman. « Quand une booktokeuse dit qu'un livre l'a bouleversée, je la crois plus qu'un prof », avoue Chloé, 15 ans. Lire devient aussi une activité sociale : on commente, on partage, on discute avec d'autres lecteurs du monde entier.",
+    "Tout le monde ne partage pas cet enthousiasme. Certains enseignants regrettent que BookTok mette surtout en avant un nombre limité de genres : romances, fantasy, thrillers. « Ce sont souvent les mêmes vingt livres qui tournent », note un professeur de lettres. Les classiques, eux, restent largement absents. D'autres soulignent que l'algorithme favorise les vidéos les plus spectaculaires, pas forcément les livres les plus riches.",
+    "Faut-il s'en inquiéter ? Pour la sociologue Anne Duval, la réponse est non. « On a longtemps cru que les écrans allaient tuer la lecture. Or, c'est un écran qui ramène des milliers de jeunes vers le livre papier. Peu importe qu'ils commencent par une romance : l'essentiel, c'est qu'ils prennent goût à la lecture. Le reste peut venir ensuite. »",
+    "Certains professeurs ont d'ailleurs décidé de s'en inspirer. Dans un collège de Rennes, les élèves réalisent leurs propres vidéos pour présenter un livre étudié en classe. Résultat : même Victor Hugo a eu droit à sa vidéo émouvante. Preuve que le format court n'est pas forcément l'ennemi des grandes œuvres."
+  ],
+  "glossarium": [
+    {
+      "vorm": "inattendue",
+      "nl": "onverwachte",
+      "basis": "inattendu"
+    },
+    {
+      "vorm": "se pressent",
+      "nl": "verdringen zich",
+      "basis": "se presser"
+    },
+    {
+      "vorm": "empilés",
+      "nl": "opgestapeld",
+      "basis": "empiler"
+    },
+    {
+      "vorm": "panneau",
+      "nl": "bordje",
+      "basis": "un panneau"
+    },
+    {
+      "vorm": "classements",
+      "nl": "ranglijsten, hitlijsten",
+      "basis": "un classement"
+    },
+    {
+      "vorm": "exemplaires",
+      "nl": "exemplaren",
+      "basis": "un exemplaire"
+    },
+    {
+      "vorm": "inespérée",
+      "nl": "onverhoopte, onverwachte",
+      "basis": "inespéré"
+    },
+    {
+      "vorm": "séduit",
+      "nl": "aantrekt, bevalt",
+      "basis": "séduire"
+    },
+    {
+      "vorm": "bouleversée",
+      "nl": "diep geraakt",
+      "basis": "bouleverser"
+    },
+    {
+      "vorm": "avoue",
+      "nl": "geeft toe",
+      "basis": "avouer"
+    },
+    {
+      "vorm": "regrettent",
+      "nl": "betreuren, vinden jammer",
+      "basis": "regretter"
+    },
+    {
+      "vorm": "mette surtout en avant",
+      "nl": "vooral onder de aandacht brengt",
+      "basis": "mettre en avant"
+    },
+    {
+      "vorm": "tournent",
+      "nl": "rondgaan, steeds terugkomen",
+      "basis": "tourner"
+    },
+    {
+      "vorm": "classiques",
+      "nl": "klassiekers",
+      "basis": "un classique"
+    },
+    {
+      "vorm": "favorise",
+      "nl": "bevoordeelt",
+      "basis": "favoriser"
+    },
+    {
+      "vorm": "s'en inquiéter",
+      "nl": "zich er zorgen over maken",
+      "basis": "s'inquiéter de"
+    },
+    {
+      "vorm": "ramène",
+      "nl": "terugbrengt",
+      "basis": "ramener"
+    },
+    {
+      "vorm": "prennent goût",
+      "nl": "er plezier in krijgen",
+      "basis": "prendre goût à"
+    },
+    {
+      "vorm": "s'en inspirer",
+      "nl": "er inspiratie uit halen",
+      "basis": "s'inspirer de"
+    },
+    {
+      "vorm": "émouvante",
+      "nl": "ontroerende",
+      "basis": "émouvant"
+    },
+    {
+      "vorm": "œuvres",
+      "nl": "werken (kunstwerken, boeken)",
+      "basis": "une œuvre"
+    }
+  ],
+  "vragen": [
+    {
+      "type": "mc",
+      "vraagtype": "tekstverband",
+      "vraag": "Welk verband is er tussen de eerste zin en de tweede zin van alinea 1?",
+      "opties": [
+        "De tweede zin geeft een oorzaak van de eerste.",
+        "De tweede zin spreekt de eerste zin tegen.",
+        "De tweede zin geeft een voorbeeld bij de eerste.",
+        "De tweede zin vat de eerste samen."
+      ],
+      "antwoord": 1,
+      "uitleg": "Zin 1: men beschuldigt jongeren ervan niet meer te lezen. Zin 2 begint met « Pourtant » en laat het tegendeel zien: jongeren dringen zich in boekwinkels.",
+      "bewijs": {
+        "alinea": 1,
+        "zin": "Pourtant, dans les librairies, une scène inattendue se répète"
+      }
+    },
+    {
+      "type": "mc",
+      "vraagtype": "detail",
+      "vraag": "Wat blijkt uit alinea 2?",
+      "opties": [
+        "Alleen nieuwe boeken worden populair via BookTok.",
+        "Ook oudere, bijna vergeten boeken kunnen door BookTok bestsellers worden.",
+        "Boekhandels zijn bang voor de concurrentie van TikTok.",
+        "Boeken op TikTok verkopen alleen online."
+      ],
+      "antwoord": 1,
+      "uitleg": "« parfois publiés il y a dix ans et presque oubliés, se retrouvent soudain en tête des classements ».",
+      "bewijs": {
+        "alinea": 2,
+        "zin": "Certains romans, parfois publiés il y a dix ans et presque oubliés, se retrouvent soudain en tête des classements."
+      }
+    },
+    {
+      "type": "open",
+      "vraagtype": "detail",
+      "vraag": "Noem de twee dingen die jonge lezers volgens alinea 3 aantrekt in BookTok.",
+      "model": "1) De echtheid: de boeken worden aangeraden door leeftijdsgenoten die eerlijk hun emoties tonen. 2) Lezen wordt een sociale activiteit: je praat en deelt met andere lezers.",
+      "uitleg": "« c'est d'abord l'authenticité » (eerste punt) en « Lire devient aussi une activité sociale » (tweede punt, « aussi »).",
+      "bewijs": {
+        "alinea": 3,
+        "zin": "Lire devient aussi une activité sociale"
+      }
+    },
+    {
+      "type": "juistonjuist",
+      "vraagtype": "juistonjuist",
+      "vraag": "Geef van elke bewering aan of deze wel of niet overeenkomt met de kritiek in alinea 4.",
+      "beweringen": [
+        {
+          "t": "Op BookTok komen vooral een paar genres aan bod.",
+          "juist": true,
+          "uitleg": "« un nombre limité de genres »"
+        },
+        {
+          "t": "Klassieke literatuur is op BookTok erg populair.",
+          "juist": false,
+          "uitleg": "« Les classiques, eux, restent largement absents. »"
+        },
+        {
+          "t": "Het algoritme laat vooral de meest spectaculaire video's zien.",
+          "juist": true,
+          "uitleg": "« l'algorithme favorise les vidéos les plus spectaculaires »"
+        }
+      ],
+      "uitleg": "« largement absents » = grotendeels afwezig.",
+      "bewijs": {
+        "alinea": 4,
+        "zin": "Les classiques, eux, restent largement absents."
+      }
+    },
+    {
+      "type": "citeer",
+      "vraagtype": "citeren",
+      "vraag": "Anne Duval noemt in alinea 5 een tegenstrijdigheid: een scherm brengt jongeren juist terug naar het boek. Citeer de eerste twee woorden van de zin waarin ze dat zegt.",
+      "antwoorden": [
+        "Or, c'est",
+        "Or c'est"
+      ],
+      "uitleg": "« Or, c'est un écran qui ramène des milliers de jeunes vers le livre papier. » « Or » introduceert een tegenwerping.",
+      "bewijs": {
+        "alinea": 5,
+        "zin": "Or, c'est un écran qui ramène des milliers de jeunes vers le livre papier."
+      }
+    },
+    {
+      "type": "mc",
+      "vraagtype": "houding",
+      "vraag": "Welke houding tegenover BookTok spreekt uit de slotalinea (alinea 6)?",
+      "opties": [
+        "afwijzend",
+        "neutraal",
+        "positief",
+        "spottend"
+      ],
+      "antwoord": 2,
+      "uitleg": "Docenten laten zich erdoor inspireren, en de laatste zin zegt dat korte video's niet per se de vijand van grote werken zijn. Dat is een positieve conclusie.",
+      "bewijs": {
+        "alinea": 6,
+        "zin": "Preuve que le format court n'est pas forcément l'ennemi des grandes œuvres."
+      }
+    }
+  ]
+}

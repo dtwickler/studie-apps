@@ -1,0 +1,18 @@
+{
+  "titels": {
+    "signaalwoorden": "Signaalwoorden",
+    "krantenwoorden": "Woorden uit krantenteksten",
+    "valse-vrienden": "Valse vrienden"
+  },
+  "tentamens": [
+    {
+      "id": "T1",
+      "naam": "Tentamen leesvaardigheid",
+      "datum": "2026-11-09",
+      "woorden": ["signaalwoorden", "krantenwoorden", "valse-vrienden"],
+      "grammatica": [],
+      "idiomen": [],
+      "lezen": ["tekst-01", "tekst-02", "tekst-03", "tekst-04", "tekst-05", "tekst-06", "tekst-07", "tekst-08"]
+    }
+  ]
+}

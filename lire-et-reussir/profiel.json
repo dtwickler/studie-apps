@@ -1,0 +1,18 @@
+{
+  "naam": "Reva",
+  "appnaam": "Lire & Réussir",
+  "taal": "fr",
+  "focus": "lezen",
+  "opslag": "frans5v-reva-v1",
+  "dagdoel": 15,
+  "beloningen": false,
+  "mijlpalen": [],
+  "examenlink": "https://www.examenblad.nl/",
+  "kleur": {
+    "donker": "#b388ff",
+    "inktDonker": "#14082b",
+    "licht": "#7c3aed",
+    "inktLicht": "#ffffff",
+    "achtergrondDonker": "#0b0714"
+  }
+}

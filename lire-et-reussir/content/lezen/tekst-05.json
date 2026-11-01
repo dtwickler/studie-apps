@@ -1,0 +1,227 @@
+{
+  "titel": "Quatre jours pour travailler, trois pour vivre ?",
+  "thema": "werk & samenleving",
+  "bron": "Oefentekst in examenstijl (zelf geschreven; personen en cijfers zijn verzonnen)",
+  "tekst": [
+    "Le vendredi, chez Ardoise, une petite entreprise de logiciels près de Lyon, les bureaux sont vides. Personne n'est malade, et personne n'est en vacances. Depuis deux ans, les trente salariés travaillent du lundi au jeudi, sans baisse de salaire. « Au début, nos clients pensaient que c'était une blague », raconte la fondatrice, Sophie Laurent.",
+    "L'idée de la semaine de quatre jours n'est pas nouvelle, mais elle connaît un regain d'intérêt depuis la crise sanitaire. Beaucoup de salariés ont alors découvert le télétravail et se sont mis à réfléchir à la place du travail dans leur vie. Aujourd'hui, selon un sondage, près de deux Français sur trois se disent favorables à ce modèle.",
+    "Chez Ardoise, le bilan est plutôt positif. Les absences pour maladie ont diminué d'un tiers, et l'entreprise n'a jamais reçu autant de candidatures. « Les gens sont prêts à gagner un peu moins ailleurs pour venir chez nous », affirme Sophie Laurent. Le chiffre d'affaires, lui, est resté stable. Pour y parvenir, l'équipe a dû revoir son organisation : moins de réunions, des réunions plus courtes, et des plages horaires sans mails ni téléphone pour se concentrer.",
+    "___, le modèle a ses limites. Pour certains salariés, les quatre journées sont devenues plus intenses. « Je fais en quatre jours ce que je faisais en cinq. Le jeudi soir, je suis épuisé », confie un développeur. Et tous les métiers ne peuvent pas s'adapter aussi facilement. Dans un hôpital, une école ou un supermarché, il faut une présence continue : impossible de fermer le vendredi.",
+    "Les économistes restent d'ailleurs divisés. Pour les uns, travailler moins rendrait les salariés plus efficaces et plus fidèles. Pour les autres, une généralisation du système coûterait cher aux entreprises et à l'État, surtout dans les secteurs où il faudrait embaucher pour compenser les heures perdues.",
+    "Sophie Laurent, elle, ne reviendrait en arrière pour rien au monde. Mais elle se garde de donner des leçons. « Ce qui marche chez nous ne marchera pas partout. La semaine de quatre jours n'est pas une recette miracle. C'est une façon de se demander : est-ce qu'on travaille bien, ou est-ce qu'on travaille juste longtemps ? »"
+  ],
+  "glossarium": [
+    {
+      "vorm": "salariés",
+      "nl": "werknemers",
+      "basis": "un salarié"
+    },
+    {
+      "vorm": "baisse",
+      "nl": "daling, verlaging",
+      "basis": "une baisse"
+    },
+    {
+      "vorm": "fondatrice",
+      "nl": "oprichtster",
+      "basis": "la fondatrice"
+    },
+    {
+      "vorm": "blague",
+      "nl": "grap",
+      "basis": "une blague"
+    },
+    {
+      "vorm": "regain d'intérêt",
+      "nl": "hernieuwde belangstelling",
+      "basis": "un regain"
+    },
+    {
+      "vorm": "crise sanitaire",
+      "nl": "gezondheidscrisis (de coronacrisis)",
+      "basis": "la crise sanitaire"
+    },
+    {
+      "vorm": "favorables",
+      "nl": "voorstander",
+      "basis": "favorable à"
+    },
+    {
+      "vorm": "bilan",
+      "nl": "resultaat, balans",
+      "basis": "le bilan"
+    },
+    {
+      "vorm": "candidatures",
+      "nl": "sollicitaties",
+      "basis": "une candidature"
+    },
+    {
+      "vorm": "chiffre d'affaires",
+      "nl": "omzet",
+      "basis": "le chiffre d'affaires"
+    },
+    {
+      "vorm": "parvenir",
+      "nl": "lukken, bereiken",
+      "basis": "parvenir à"
+    },
+    {
+      "vorm": "plages horaires",
+      "nl": "tijdsblokken",
+      "basis": "une plage horaire"
+    },
+    {
+      "vorm": "épuisé",
+      "nl": "uitgeput",
+      "basis": "épuiser"
+    },
+    {
+      "vorm": "confie",
+      "nl": "vertelt in vertrouwen",
+      "basis": "confier"
+    },
+    {
+      "vorm": "embaucher",
+      "nl": "personeel aannemen"
+    },
+    {
+      "vorm": "compenser",
+      "nl": "opvangen, compenseren"
+    },
+    {
+      "vorm": "pour rien au monde",
+      "nl": "voor geen goud"
+    },
+    {
+      "vorm": "se garde de",
+      "nl": "past ervoor op om, doet bewust niet",
+      "basis": "se garder de"
+    },
+    {
+      "vorm": "recette miracle",
+      "nl": "wondermiddel",
+      "basis": "une recette miracle"
+    }
+  ],
+  "vragen": [
+    {
+      "type": "mc",
+      "vraagtype": "detail",
+      "vraag": "Waarom zijn de kantoren van Ardoise op vrijdag leeg (alinea 1)?",
+      "opties": [
+        "Omdat de werknemers op vrijdag thuiswerken.",
+        "Omdat het bedrijf op vrijdag zijn deuren sluit vanwege te weinig werk.",
+        "Omdat de werknemers maar vier dagen per week werken, met hetzelfde salaris.",
+        "Omdat de werknemers vrijdag minder betaald krijgen."
+      ],
+      "antwoord": 2,
+      "uitleg": "« les trente salariés travaillent du lundi au jeudi, sans baisse de salaire ». Ze zijn niet ziek en niet op vakantie.",
+      "bewijs": {
+        "alinea": 1,
+        "zin": "les trente salariés travaillent du lundi au jeudi, sans baisse de salaire"
+      }
+    },
+    {
+      "type": "mc",
+      "vraagtype": "detail",
+      "vraag": "Waardoor is de belangstelling voor de vierdaagse werkweek volgens alinea 2 toegenomen?",
+      "opties": [
+        "Door een nieuwe wet van de regering.",
+        "Doordat veel mensen tijdens de coronacrisis anders over werk gingen nadenken.",
+        "Doordat bedrijven geld wilden besparen.",
+        "Doordat er te weinig werk was."
+      ],
+      "antwoord": 1,
+      "uitleg": "« depuis la crise sanitaire » (sinds de gezondheidscrisis): werknemers ontdekten thuiswerken en dachten na over « la place du travail dans leur vie ».",
+      "bewijs": {
+        "alinea": 2,
+        "zin": "se sont mis à réfléchir à la place du travail dans leur vie"
+      }
+    },
+    {
+      "type": "juistonjuist",
+      "vraagtype": "juistonjuist",
+      "vraag": "Geef van elke bewering aan of deze wel of niet overeenkomt met alinea 3.",
+      "beweringen": [
+        {
+          "t": "Het ziekteverzuim is met een derde gedaald.",
+          "juist": true,
+          "uitleg": "« ont diminué d'un tiers »"
+        },
+        {
+          "t": "De omzet van het bedrijf is flink gestegen.",
+          "juist": false,
+          "uitleg": "« est resté stable »: de omzet is gelijk gebleven."
+        },
+        {
+          "t": "Er wordt minder en korter vergaderd.",
+          "juist": true,
+          "uitleg": "« moins de réunions, des réunions plus courtes »"
+        }
+      ],
+      "uitleg": "Let op het verschil tussen « augmenter » (stijgen) en « rester stable » (gelijk blijven).",
+      "bewijs": {
+        "alinea": 3,
+        "zin": "Le chiffre d'affaires, lui, est resté stable."
+      }
+    },
+    {
+      "type": "mc",
+      "vraagtype": "signaalwoord",
+      "vraag": "Welk woord past op de open plek aan het begin van alinea 4?",
+      "zin": "(Alinea 3: het resultaat is positief.) ___, le modèle a ses limites.",
+      "opties": [
+        "Ainsi",
+        "Cependant",
+        "En effet",
+        "Par exemple"
+      ],
+      "antwoord": 1,
+      "uitleg": "Na de voordelen in alinea 3 komen in alinea 4 de nadelen: een tegenstelling. « Cependant » = echter.",
+      "bewijs": {
+        "alinea": 4,
+        "zin": "le modèle a ses limites"
+      }
+    },
+    {
+      "type": "open",
+      "vraagtype": "detail",
+      "vraag": "Noem de twee beperkingen van de vierdaagse werkweek die in alinea 4 worden genoemd.",
+      "model": "1) Voor sommige werknemers worden de vier werkdagen zwaarder/intensiever (ze zijn uitgeput). 2) Niet elk beroep kan het invoeren: in bijvoorbeeld ziekenhuizen, scholen en supermarkten moet er altijd iemand zijn.",
+      "uitleg": "« Et tous les métiers ne peuvent pas… » kondigt de tweede beperking aan.",
+      "bewijs": {
+        "alinea": 4,
+        "zin": "Et tous les métiers ne peuvent pas s'adapter aussi facilement."
+      }
+    },
+    {
+      "type": "mc",
+      "vraagtype": "houding",
+      "vraag": "Hoe staat Sophie Laurent in alinea 6 tegenover de vierdaagse werkweek?",
+      "opties": [
+        "Ze vindt dat alle bedrijven moeten overstappen.",
+        "Ze twijfelt of ze ermee doorgaat.",
+        "Ze is er zelf heel tevreden over, maar vindt het geen oplossing voor iedereen.",
+        "Ze vindt dat het systeem bij haar bedrijf is mislukt."
+      ],
+      "antwoord": 2,
+      "uitleg": "« ne reviendrait en arrière pour rien au monde » = ze wil voor geen goud terug. Maar: « Ce qui marche chez nous ne marchera pas partout. » « se garder de » = ervoor oppassen om.",
+      "bewijs": {
+        "alinea": 6,
+        "zin": "« Ce qui marche chez nous ne marchera pas partout."
+      }
+    },
+    {
+      "type": "alinea",
+      "vraagtype": "alinea-zoeken",
+      "vraag": "In welke alinea worden twee tegengestelde standpunten van deskundigen gegeven?",
+      "antwoord": 5,
+      "uitleg": "« Pour les uns … Pour les autres … »: de ene groep economen tegenover de andere.",
+      "bewijs": {
+        "alinea": 5,
+        "zin": "Les économistes restent d'ailleurs divisés."
+      }
+    }
+  ]
+}

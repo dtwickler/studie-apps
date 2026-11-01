@@ -1,0 +1,203 @@
+{
+  "titel": "Les ados, le téléphone et la nuit",
+  "thema": "jongeren & schermen",
+  "bron": "Oefentekst in examenstijl (zelf geschreven; personen en cijfers zijn verzonnen)",
+  "tekst": [
+    "Il est minuit passé. Dans sa chambre, Léa, 16 ans, fait défiler des vidéos sur son téléphone. « Je me dis toujours : encore une, et puis j'arrête », raconte-t-elle en riant. Le lendemain, elle se lève à 6 h 45 pour aller au lycée. Comme beaucoup d'adolescents, Léa dort bien moins que les huit à dix heures recommandées par les médecins.",
+    "Selon une enquête menée auprès de 2 000 lycéens, près de sept jeunes sur dix gardent leur téléphone dans leur chambre la nuit. Un tiers d'entre eux avouent le consulter après s'être réveillés. Les conséquences sont connues : fatigue en classe, difficultés de concentration et, à long terme, un risque accru d'anxiété.",
+    "Pourtant, le téléphone n'est pas le seul coupable. « À l'adolescence, l'horloge biologique se décale naturellement », explique la chercheuse Claire Morel. « Le corps produit la mélatonine, l'hormone du sommeil, plus tard dans la soirée. Un ado qui n'a pas sommeil à 22 heures n'est donc pas forcément de mauvaise volonté. » L'écran, avec sa lumière bleue et ses contenus stimulants, ne fait qu'aggraver ce phénomène.",
+    "Face à ce constat, certains établissements ont décidé d'agir. Au lycée Victor-Hugo de Poitiers, les cours ne commencent plus à 8 heures mais à 9 heures le lundi et le mardi. ___, l'infirmière scolaire organise des ateliers où les élèves apprennent à mieux gérer leurs soirées. « Nous ne voulons pas interdire, mais faire comprendre », précise le proviseur.",
+    "Les premiers résultats sont encourageants : moins de retards, des élèves plus attentifs le matin. Mais tous les parents ne sont pas convaincus. « Commencer plus tard, c'est aussi finir plus tard », regrette la mère d'un élève de seconde. « Et le soir, mon fils retrouve son téléphone de toute façon. »",
+    "Pour Claire Morel, la solution ne viendra pas d'une seule mesure. « Il faut agir à la fois sur les horaires, sur l'information et dans les familles. Laisser le téléphone dans la cuisine pendant la nuit, c'est simple, et ça change beaucoup de choses. » Léa, elle, a essayé pendant une semaine. Son verdict ? « Les deux premiers soirs, c'était dur. Après, je m'endormais plus vite. »"
+  ],
+  "glossarium": [
+    {
+      "vorm": "fait défiler",
+      "nl": "scrollt door",
+      "basis": "faire défiler"
+    },
+    {
+      "vorm": "recommandées",
+      "nl": "aanbevolen",
+      "basis": "recommander"
+    },
+    {
+      "vorm": "avouent",
+      "nl": "geven toe",
+      "basis": "avouer"
+    },
+    {
+      "vorm": "accru",
+      "nl": "verhoogd",
+      "basis": "accru"
+    },
+    {
+      "vorm": "coupable",
+      "nl": "schuldige"
+    },
+    {
+      "vorm": "horloge biologique",
+      "nl": "biologische klok",
+      "basis": "l'horloge biologique"
+    },
+    {
+      "vorm": "se décale",
+      "nl": "verschuift",
+      "basis": "se décaler"
+    },
+    {
+      "vorm": "de mauvaise volonté",
+      "nl": "onwillig, met opzet dwars"
+    },
+    {
+      "vorm": "aggraver",
+      "nl": "verergeren"
+    },
+    {
+      "vorm": "établissements",
+      "nl": "scholen (onderwijsinstellingen)",
+      "basis": "un établissement"
+    },
+    {
+      "vorm": "infirmière scolaire",
+      "nl": "schoolverpleegkundige",
+      "basis": "l'infirmière scolaire"
+    },
+    {
+      "vorm": "ateliers",
+      "nl": "workshops",
+      "basis": "un atelier"
+    },
+    {
+      "vorm": "proviseur",
+      "nl": "rector, schooldirecteur",
+      "basis": "le proviseur"
+    },
+    {
+      "vorm": "retards",
+      "nl": "keren te laat komen",
+      "basis": "un retard"
+    },
+    {
+      "vorm": "regrette",
+      "nl": "betreurt, vindt jammer",
+      "basis": "regretter"
+    },
+    {
+      "vorm": "seconde",
+      "nl": "eerste jaar van het lycée (± 4 vwo)",
+      "basis": "la seconde"
+    }
+  ],
+  "vragen": [
+    {
+      "type": "mc",
+      "vraagtype": "tekstverband",
+      "vraag": "Wat is de functie van alinea 1?",
+      "opties": [
+        "Het probleem wordt met een concreet voorbeeld ingeleid.",
+        "De oorzaak van slaaptekort wordt wetenschappelijk verklaard.",
+        "Er wordt een oplossing voor slaaptekort voorgesteld.",
+        "De mening van de schrijver over telefoongebruik wordt gegeven."
+      ],
+      "antwoord": 0,
+      "uitleg": "Alinea 1 vertelt over Léa (een concreet geval) en eindigt met het algemene probleem: veel jongeren slapen te weinig. Dat is een inleiding met een voorbeeld.",
+      "bewijs": {
+        "alinea": 1,
+        "zin": "Comme beaucoup d'adolescents, Léa dort bien moins que les huit à dix heures recommandées par les médecins."
+      }
+    },
+    {
+      "type": "juistonjuist",
+      "vraagtype": "juistonjuist",
+      "vraag": "Geef van elke bewering aan of deze wel of niet overeenkomt met alinea 2.",
+      "beweringen": [
+        {
+          "t": "Ongeveer 70% van de scholieren heeft 's nachts de telefoon op de slaapkamer.",
+          "juist": true,
+          "uitleg": "« près de sept jeunes sur dix »"
+        },
+        {
+          "t": "Een derde van álle ondervraagde scholieren kijkt 's nachts op de telefoon.",
+          "juist": false,
+          "uitleg": "Een derde « d'entre eux », dus van de jongeren die de telefoon op de kamer hebben, niet van iedereen."
+        },
+        {
+          "t": "Slaaptekort kan op de lange duur leiden tot meer angstklachten.",
+          "juist": true,
+          "uitleg": "« à long terme, un risque accru d'anxiété »"
+        }
+      ],
+      "uitleg": "Let bij bewering 2 op « d'entre eux »: dat verwijst naar de groep uit de zin ervoor.",
+      "bewijs": {
+        "alinea": 2,
+        "zin": "Un tiers d'entre eux avouent le consulter après s'être réveillés."
+      }
+    },
+    {
+      "type": "mc",
+      "vraagtype": "detail",
+      "vraag": "Wat beweert Claire Morel in alinea 3?",
+      "opties": [
+        "Jongeren gaan laat slapen omdat ze geen zin hebben om naar bed te gaan.",
+        "De telefoon is de belangrijkste oorzaak van het slaaptekort bij jongeren.",
+        "Jongeren krijgen van nature later slaap; schermen versterken dat.",
+        "Blauw licht heeft geen invloed op het slaapritme van jongeren."
+      ],
+      "antwoord": 2,
+      "uitleg": "Het lichaam van een tiener maakt melatonine later aan. Het scherm « ne fait qu'aggraver », het maakt het alleen erger. « Pourtant, le téléphone n'est pas le seul coupable » sluit optie B uit.",
+      "bewijs": {
+        "alinea": 3,
+        "zin": "« À l'adolescence, l'horloge biologique se décale naturellement »"
+      }
+    },
+    {
+      "type": "mc",
+      "vraagtype": "signaalwoord",
+      "vraag": "Welk woord past op de open plek in alinea 4?",
+      "zin": "Les cours ne commencent plus à 8 heures mais à 9 heures. ___, l'infirmière scolaire organise des ateliers…",
+      "opties": [
+        "Pourtant",
+        "En outre",
+        "Par conséquent",
+        "Autrement dit"
+      ],
+      "antwoord": 1,
+      "uitleg": "De school neemt een tweede maatregel naast de eerste: er komt iets bij. « En outre » = bovendien. Er is geen tegenstelling (pourtant), geen gevolg (par conséquent) en geen herhaling in andere woorden (autrement dit).",
+      "bewijs": {
+        "alinea": 4,
+        "zin": "l'infirmière scolaire organise des ateliers où les élèves apprennent à mieux gérer leurs soirées"
+      }
+    },
+    {
+      "type": "citeer",
+      "vraagtype": "citeren",
+      "vraag": "In alinea 5 wordt een nadeel van de latere begintijd genoemd. Citeer de eerste twee woorden van de zin waarin dat nadeel staat.",
+      "antwoorden": [
+        "Commencer plus"
+      ],
+      "uitleg": "Het nadeel: als je later begint, ben je ook later klaar. De zin begint met « Commencer plus tard, c'est aussi finir plus tard ».",
+      "bewijs": {
+        "alinea": 5,
+        "zin": "« Commencer plus tard, c'est aussi finir plus tard »"
+      }
+    },
+    {
+      "type": "mc",
+      "vraagtype": "hoofdgedachte",
+      "vraag": "Wat is de hoofdgedachte van de tekst?",
+      "opties": [
+        "Scholen moeten telefoons verbieden om het slaaptekort van jongeren op te lossen.",
+        "Slaaptekort bij jongeren heeft meerdere oorzaken en vraagt om een combinatie van maatregelen.",
+        "Een latere begintijd van de school is de beste oplossing voor slaaptekort.",
+        "Ouders zijn verantwoordelijk voor het slaaptekort van hun kinderen."
+      ],
+      "antwoord": 1,
+      "uitleg": "De tekst noemt twee oorzaken (biologische klok + scherm) en eindigt met: « la solution ne viendra pas d'une seule mesure ». A is fout: de school wil juist niet verbieden. C en D gaan over een deel van de tekst.",
+      "bewijs": {
+        "alinea": 6,
+        "zin": "la solution ne viendra pas d'une seule mesure"
+      }
+    }
+  ]
+}

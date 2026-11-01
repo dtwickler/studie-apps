@@ -1,0 +1,129 @@
+{
+  "vraagtypes": [
+    {
+      "id": "hoofdgedachte",
+      "naam": "Hoofdgedachte",
+      "icoon": "🎯",
+      "herkennen": "'Wat is de hoofdgedachte / het doel van de tekst?' of 'Welke titel past het best?'",
+      "aanpak": [
+        "Lees de titel, de inleiding (alinea 1) en de slotalinea opnieuw.",
+        "Vat de tekst in één zin samen in je eigen woorden, nog vóór je naar de opties kijkt.",
+        "Kies de optie die de hele tekst dekt, niet alleen één alinea.",
+        "Streep opties weg die te sterk zijn ('altijd', 'iedereen') of maar over een detail gaan."
+      ],
+      "valkuil": "Een optie die wél klopt met één alinea, maar niet met de hele tekst."
+    },
+    {
+      "id": "tekstverband",
+      "naam": "Functie van een alinea",
+      "icoon": "🔗",
+      "herkennen": "'Hoe verhoudt alinea 3 zich tot alinea 2?' of 'Wat is de functie van alinea 4?'",
+      "aanpak": [
+        "Vat beide alinea's elk in één korte zin samen.",
+        "Zoek het eerste woord of de eerste zin van de alinea: daar staat vaak een signaalwoord (mais, ainsi, par exemple, en revanche).",
+        "Benoem de relatie: tegenstelling, oorzaak, gevolg, voorbeeld, uitwerking, conclusie, nuancering.",
+        "Kies pas dan de optie die precies die relatie noemt."
+      ],
+      "valkuil": "'Voorbeeld' en 'uitwerking' lijken op elkaar: een voorbeeld is één concreet geval, een uitwerking legt verder uit."
+    },
+    {
+      "id": "signaalwoord",
+      "naam": "Gatentekst / signaalwoord",
+      "icoon": "🧩",
+      "herkennen": "'Welk woord of welke woorden passen op de open plek?'",
+      "aanpak": [
+        "Lees de zin vóór en ná de open plek.",
+        "Bepaal de relatie tussen die twee stukken: tegenstelling, oorzaak, gevolg, toevoeging?",
+        "Kies het signaalwoord dat bij die relatie hoort (mais / pourtant = tegenstelling, donc / ainsi = gevolg, car / parce que = reden).",
+        "Lees de zin hardop in je hoofd met jouw keuze: loopt hij logisch?"
+      ],
+      "valkuil": "Alleen naar de zin met de open plek kijken. Het verband zit vaak tussen twee zinnen."
+    },
+    {
+      "id": "verwijzing",
+      "naam": "Verwijzing",
+      "icoon": "👉",
+      "herkennen": "'Waar verwijst « cela » / « ce phénomène » / « ils » naar?'",
+      "aanpak": [
+        "Zoek het woord op in de tekst.",
+        "Lees één tot twee zinnen terug: het antwoord staat bijna altijd vóór het verwijswoord.",
+        "Vul jouw antwoord in op de plek van het verwijswoord. Klopt de zin dan nog?"
+      ],
+      "valkuil": "Het dichtstbijzijnde zelfstandig naamwoord kiezen, terwijl het om een hele situatie gaat."
+    },
+    {
+      "id": "detail",
+      "naam": "Gericht zoeken",
+      "icoon": "🔍",
+      "herkennen": "'Wat blijkt uit alinea 2?' of 'Welke reden noemt …?'",
+      "aanpak": [
+        "Lees eerst de vraag en onderstreep de kernwoorden (reden, nadeel, gevolg, twee, …).",
+        "Ga naar de alinea die genoemd wordt en zoek de zin die over dat kernwoord gaat.",
+        "Lees die zin precies: let op nuance (souvent, parfois, plutôt, ne… guère).",
+        "Kies de optie die hetzelfde zegt in andere woorden."
+      ],
+      "valkuil": "Een optie die letterlijk dezelfde woorden gebruikt als de tekst, maar iets anders beweert."
+    },
+    {
+      "id": "juistonjuist",
+      "naam": "Juist / onjuist",
+      "icoon": "✅",
+      "herkennen": "'Geef van elke bewering aan of deze wel of niet overeenkomt met de tekst.'",
+      "aanpak": [
+        "Neem de beweringen één voor één. Zoek per bewering de plek in de tekst.",
+        "Een bewering is alleen 'juist' als de tekst het écht zegt, niet als het logisch klinkt.",
+        "Let op versterkers en beperkers: 'alle', 'nooit', 'alleen', 'meestal'.",
+        "Bij het examen krijg je meestal alleen een punt als álle beweringen goed zijn: controleer elke bewering."
+      ],
+      "valkuil": "Je eigen kennis gebruiken. Alleen wat in de tekst staat telt."
+    },
+    {
+      "id": "citeren",
+      "naam": "Citeren",
+      "icoon": "✍️",
+      "herkennen": "'Citeer de eerste (twee) woorden van de zin waarin …'",
+      "aanpak": [
+        "Bepaal in welke alinea het moet staan en zoek de zin die precies doet wat de vraag zegt.",
+        "Schrijf precies het aantal woorden op dat gevraagd wordt: niet meer, niet minder.",
+        "Neem de woorden letterlijk over, inclusief accenten. Een apostrof (l', qu') hoort bij het woord."
+      ],
+      "valkuil": "Een zin kiezen die over hetzelfde onderwerp gaat, maar niet precies het gevraagde zegt (bijvoorbeeld een oorzaak in plaats van een gevolg)."
+    },
+    {
+      "id": "alinea-zoeken",
+      "naam": "Welke alinea?",
+      "icoon": "🔢",
+      "herkennen": "'In welke alinea wordt … genoemd?'",
+      "aanpak": [
+        "Vertaal de beschrijving in de vraag naar een paar Franse sleutelwoorden.",
+        "Scan de alinea's op die sleutelwoorden of synoniemen.",
+        "Lees de gevonden alinea nauwkeurig: wordt het daar echt genoemd, of alleen aangestipt?"
+      ],
+      "valkuil": "Stoppen bij de eerste alinea waarin het onderwerp voorkomt."
+    },
+    {
+      "id": "houding",
+      "naam": "Mening of toon van de schrijver",
+      "icoon": "🎭",
+      "herkennen": "'Hoe staat de schrijver tegenover …?' of 'Welke toon heeft de tekst?'",
+      "aanpak": [
+        "Zoek woorden met een duidelijk oordeel: bijvoeglijke naamwoorden, ironie, uitroepen, vragen.",
+        "Kijk extra naar de slotalinea: daar staat de mening vaak het duidelijkst.",
+        "Onderscheid de mening van de schrijver van die van mensen die hij citeert."
+      ],
+      "valkuil": "De mening van een geïnterviewd persoon aanzien voor die van de schrijver."
+    },
+    {
+      "id": "woordbetekenis",
+      "naam": "Betekenis uit de context",
+      "icoon": "💬",
+      "herkennen": "'Wat wordt bedoeld met « … »?'",
+      "aanpak": [
+        "Lees de zin ervoor en erna.",
+        "Bedenk wat er logisch op die plek zou passen, ook als je het woord niet kent.",
+        "Pas daarna eventueel het woordenboek toe en kies de betekenis die in deze context past."
+      ],
+      "valkuil": "De eerste betekenis uit het woordenboek nemen zonder naar de context te kijken."
+    }
+  ]
+}

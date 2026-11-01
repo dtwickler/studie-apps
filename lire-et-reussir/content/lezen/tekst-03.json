@@ -1,0 +1,213 @@
+{
+  "titel": "ChatGPT fait-il les devoirs ?",
+  "thema": "school & technologie",
+  "bron": "Oefentekst in examenstijl (zelf geschreven; personen en cijfers zijn verzonnen)",
+  "tekst": [
+    "Quand Hugo, professeur de français dans un lycée de Nantes, a corrigé les dissertations de ses élèves de première l'an dernier, quelque chose l'a frappé. « Les copies étaient bien écrites, presque trop. Plus de fautes d'orthographe, des phrases parfaitement construites… mais aucune idée personnelle. » Il a vite compris : une bonne partie des textes avait été rédigée avec l'aide d'une intelligence artificielle.",
+    "Hugo n'est pas un cas isolé. D'après un sondage réalisé auprès de 1 500 enseignants, plus de la moitié disent avoir déjà soupçonné un élève d'utiliser une IA pour un devoir à la maison. Le problème, c'est qu'il est très difficile de le prouver. Les logiciels censés détecter les textes produits par une machine se trompent souvent, et accusent parfois à tort des élèves honnêtes.",
+    "Face à cette situation, deux camps s'opposent. Les premiers voudraient interdire purement et simplement ces outils à l'école. Les seconds estiment qu'une interdiction serait inutile, puisque les élèves y ont accès sur leur téléphone à tout moment. « Interdire l'IA, c'est comme interdire la calculatrice dans les années 1980 », ironise une inspectrice de l'Éducation nationale.",
+    "Hugo, lui, a choisi une troisième voie. Ses élèves n'écrivent plus leurs dissertations à la maison, mais en classe, sur papier. ___, il leur demande parfois d'utiliser l'IA de manière encadrée : les élèves soumettent une question à un chatbot, puis analysent la réponse pour y repérer les erreurs et les approximations. « Ils sont souvent surpris de voir à quel point la machine peut affirmer des choses fausses avec assurance », sourit-il.",
+    "Pour la sociologue Nadia Ferhat, cette approche va dans le bon sens. « Le vrai danger n'est pas que les élèves trichent. C'est qu'ils perdent l'habitude de réfléchir par eux-mêmes. Écrire, c'est penser. Si on délègue l'écriture, on délègue aussi la réflexion. » Selon elle, l'école doit apprendre aux jeunes à se servir de l'IA comme d'un outil, et non comme d'un remplaçant.",
+    "Reste une question que personne n'a encore vraiment tranchée : comment évaluer les élèves de façon juste à l'heure où une machine peut écrire à leur place ? Le devoir à la maison, pilier de l'enseignement depuis des générations, pourrait bien ne pas survivre à cette révolution."
+  ],
+  "glossarium": [
+    {
+      "vorm": "frappé",
+      "nl": "opgevallen (letterlijk: getroffen)",
+      "basis": "frapper"
+    },
+    {
+      "vorm": "première",
+      "nl": "voorlaatste jaar van het lycée (± 5 vwo)",
+      "basis": "la première"
+    },
+    {
+      "vorm": "dissertations",
+      "nl": "betogen, essays",
+      "basis": "une dissertation"
+    },
+    {
+      "vorm": "copies",
+      "nl": "ingeleverde werken",
+      "basis": "une copie"
+    },
+    {
+      "vorm": "rédigée",
+      "nl": "geschreven",
+      "basis": "rédiger"
+    },
+    {
+      "vorm": "soupçonné",
+      "nl": "verdacht",
+      "basis": "soupçonner"
+    },
+    {
+      "vorm": "censés",
+      "nl": "die zouden moeten",
+      "basis": "être censé"
+    },
+    {
+      "vorm": "à tort",
+      "nl": "ten onrechte"
+    },
+    {
+      "vorm": "purement et simplement",
+      "nl": "zonder meer, gewoonweg"
+    },
+    {
+      "vorm": "ironise",
+      "nl": "zegt spottend",
+      "basis": "ironiser"
+    },
+    {
+      "vorm": "voie",
+      "nl": "weg, aanpak",
+      "basis": "une voie"
+    },
+    {
+      "vorm": "encadrée",
+      "nl": "begeleid, onder toezicht",
+      "basis": "encadrer"
+    },
+    {
+      "vorm": "repérer",
+      "nl": "opsporen, ontdekken"
+    },
+    {
+      "vorm": "approximations",
+      "nl": "onnauwkeurigheden",
+      "basis": "une approximation"
+    },
+    {
+      "vorm": "trichent",
+      "nl": "spieken, frauderen",
+      "basis": "tricher"
+    },
+    {
+      "vorm": "délègue",
+      "nl": "besteedt uit, laat over aan een ander",
+      "basis": "déléguer"
+    },
+    {
+      "vorm": "tranchée",
+      "nl": "beslist, beantwoord",
+      "basis": "trancher"
+    },
+    {
+      "vorm": "pilier",
+      "nl": "pijler",
+      "basis": "un pilier"
+    }
+  ],
+  "vragen": [
+    {
+      "type": "mc",
+      "vraagtype": "detail",
+      "vraag": "Wat viel Hugo op aan de essays van zijn leerlingen (alinea 1)?",
+      "opties": [
+        "Ze bevatten veel spelfouten.",
+        "Ze waren foutloos, maar zonder eigen ideeën.",
+        "Ze waren veel korter dan normaal.",
+        "Ze waren allemaal hetzelfde."
+      ],
+      "antwoord": 1,
+      "uitleg": "« Plus de fautes d'orthographe » betekent hier: géén spelfouten meer (ne … plus). En: « aucune idée personnelle ».",
+      "bewijs": {
+        "alinea": 1,
+        "zin": "mais aucune idée personnelle"
+      }
+    },
+    {
+      "type": "juistonjuist",
+      "vraagtype": "juistonjuist",
+      "vraag": "Geef van elke bewering aan of deze wel of niet overeenkomt met alinea 2.",
+      "beweringen": [
+        {
+          "t": "Meer dan de helft van de docenten heeft al eens vermoed dat een leerling AI gebruikte.",
+          "juist": true,
+          "uitleg": "« plus de la moitié disent avoir déjà soupçonné »"
+        },
+        {
+          "t": "Met speciale software kun je AI-teksten betrouwbaar herkennen.",
+          "juist": false,
+          "uitleg": "De software « se trompent souvent »: ze vergissen zich vaak."
+        },
+        {
+          "t": "Soms worden eerlijke leerlingen ten onrechte beschuldigd.",
+          "juist": true,
+          "uitleg": "« accusent parfois à tort des élèves honnêtes »"
+        }
+      ],
+      "uitleg": "« à tort » = ten onrechte. Een handige uitdrukking om te kennen.",
+      "bewijs": {
+        "alinea": 2,
+        "zin": "Les logiciels censés détecter les textes produits par une machine se trompent souvent"
+      }
+    },
+    {
+      "type": "mc",
+      "vraagtype": "woordbetekenis",
+      "vraag": "Wat bedoelt de inspectrice met haar vergelijking met de rekenmachine (alinea 3)?",
+      "opties": [
+        "Dat AI net zo nuttig is als een rekenmachine bij wiskunde.",
+        "Dat een verbod op AI zinloos is, omdat zo'n hulpmiddel toch niet meer weggaat.",
+        "Dat AI over veertig jaar heel normaal zal zijn.",
+        "Dat leerlingen vroeger ook al spiekten."
+      ],
+      "antwoord": 1,
+      "uitleg": "Ze hoort bij het tweede kamp: een verbod is « inutile ». Zoals de rekenmachine niet tegen te houden was, is AI dat ook niet. Het werkwoord « ironise » laat zien dat ze het verbod belachelijk vindt.",
+      "bewijs": {
+        "alinea": 3,
+        "zin": "Les seconds estiment qu'une interdiction serait inutile"
+      }
+    },
+    {
+      "type": "mc",
+      "vraagtype": "signaalwoord",
+      "vraag": "Welk woord of welke woorden passen op de open plek in alinea 4?",
+      "zin": "Ses élèves n'écrivent plus leurs dissertations à la maison, mais en classe. ___, il leur demande parfois d'utiliser l'IA de manière encadrée.",
+      "opties": [
+        "Par conséquent",
+        "En revanche",
+        "C'est-à-dire",
+        "Ainsi"
+      ],
+      "antwoord": 1,
+      "uitleg": "Eerst: geen AI bij het essay. Dan: juist wél AI, maar onder begeleiding. Dat is een tegenstelling tussen twee maatregelen. « En revanche » = daarentegen. Par conséquent en ainsi geven een gevolg aan, c'est-à-dire een herhaling in andere woorden.",
+      "bewijs": {
+        "alinea": 4,
+        "zin": "il leur demande parfois d'utiliser l'IA de manière encadrée"
+      }
+    },
+    {
+      "type": "citeer",
+      "vraagtype": "citeren",
+      "vraag": "Volgens Nadia Ferhat is spieken niet het grootste gevaar. Citeer de eerste twee woorden van de zin waarin ze zegt wat volgens haar wél het grootste gevaar is.",
+      "antwoorden": [
+        "C'est qu'ils"
+      ],
+      "uitleg": "Na « Le vrai danger n'est pas que les élèves trichent. » volgt: « C'est qu'ils perdent l'habitude de réfléchir par eux-mêmes. » Let op: « C'est » telt als één woord.",
+      "bewijs": {
+        "alinea": 5,
+        "zin": "C'est qu'ils perdent l'habitude de réfléchir par eux-mêmes."
+      }
+    },
+    {
+      "type": "mc",
+      "vraagtype": "hoofdgedachte",
+      "vraag": "Welke vraag staat centraal in deze tekst?",
+      "opties": [
+        "Hoe kunnen scholen AI zo snel mogelijk verbieden?",
+        "Hoe moet het onderwijs omgaan met het gebruik van AI door leerlingen?",
+        "Waarom schrijven leerlingen tegenwoordig betere teksten?",
+        "Welke AI-programma's zijn het beste voor leerlingen?"
+      ],
+      "antwoord": 1,
+      "uitleg": "De tekst laat verschillende reacties zien (verbieden, toestaan, de aanpak van Hugo) en eindigt met de open vraag hoe je eerlijk beoordeelt. A is maar één standpunt.",
+      "bewijs": {
+        "alinea": 6,
+        "zin": "comment évaluer les élèves de façon juste à l'heure où une machine peut écrire à leur place ?"
+      }
+    }
+  ]
+}

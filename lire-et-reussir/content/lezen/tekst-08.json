@@ -1,0 +1,283 @@
+{
+  "titel": "Paris, la revanche du vélo",
+  "thema": "stad & mobiliteit",
+  "bron": "Oefentekst in examenstijl (zelf geschreven; personen en cijfers zijn verzonnen)",
+  "tekst": [
+    "Il y a quinze ans, traverser Paris à vélo relevait presque de l'aventure. Aujourd'hui, aux heures de pointe, certaines pistes cyclables connaissent de véritables embouteillages… de vélos. Sur la rue de Rivoli, autrefois envahie par les voitures, les cyclistes sont désormais bien plus nombreux que les automobilistes. Une petite révolution dans une ville longtemps considérée comme hostile aux deux-roues.",
+    "Ce changement ne doit rien au hasard. La mairie a investi des centaines de millions d'euros pour créer plus de 1 000 kilomètres d'aménagements cyclables. Les grèves des transports et la crise sanitaire ont aussi joué un rôle : de nombreux Parisiens, privés de métro, ont découvert qu'ils pouvaient se rendre au travail en vingt minutes à vélo. Beaucoup ne sont jamais revenus en arrière.",
+    "Pour ses partisans, le bilan est clair : moins de bruit, un air plus respirable et des habitants en meilleure santé. « Je gagne du temps, je fais du sport sans aller à la salle et je ne pollue pas », résume Amélie, infirmière, qui pédale chaque jour de Montreuil jusqu'à l'hôpital.",
+    "La transformation suscite pourtant de vives tensions. Les commerçants de certains quartiers se plaignent de la disparition des places de stationnement, qui ferait fuir une partie de leur clientèle. Les habitants de banlieue, qui vivent souvent loin des transports en commun, ont le sentiment d'être les grands oubliés. « Pour un cadre qui habite à côté de son bureau, le vélo, c'est parfait. Pour moi, qui fais 40 kilomètres chaque matin, c'est impossible », proteste Stéphane, artisan.",
+    "La cohabitation sur la route n'est pas non plus toujours paisible. Piétons agacés par des cyclistes qui grillent les feux rouges, cyclistes effrayés par des voitures qui les frôlent : chacun accuse l'autre. Le nombre d'accidents impliquant des vélos a d'ailleurs augmenté, même si le risque, rapporté au nombre de trajets, a baissé.",
+    "Pour les urbanistes, Paris est en train de vivre ce qu'Amsterdam ou Copenhague ont connu il y a quarante ans. « Toute transformation de cette ampleur crée des gagnants et des perdants », estime l'un d'eux. « Le défi, maintenant, est de faire en sorte que la ville du vélo ne soit pas seulement celle des Parisiens aisés du centre. »"
+  ],
+  "glossarium": [
+    {
+      "vorm": "relevait",
+      "nl": "was, hoorde bij (relever de)",
+      "basis": "relever de"
+    },
+    {
+      "vorm": "heures de pointe",
+      "nl": "de spits",
+      "basis": "les heures de pointe"
+    },
+    {
+      "vorm": "pistes cyclables",
+      "nl": "fietspaden",
+      "basis": "une piste cyclable"
+    },
+    {
+      "vorm": "embouteillages",
+      "nl": "files",
+      "basis": "un embouteillage"
+    },
+    {
+      "vorm": "envahie",
+      "nl": "overspoeld",
+      "basis": "envahir"
+    },
+    {
+      "vorm": "hostile",
+      "nl": "vijandig"
+    },
+    {
+      "vorm": "deux-roues",
+      "nl": "tweewielers (fietsen, scooters)",
+      "basis": "un deux-roues"
+    },
+    {
+      "vorm": "ne doit rien au hasard",
+      "nl": "is geen toeval",
+      "basis": "devoir quelque chose à"
+    },
+    {
+      "vorm": "aménagements cyclables",
+      "nl": "fietsvoorzieningen",
+      "basis": "un aménagement"
+    },
+    {
+      "vorm": "grèves",
+      "nl": "stakingen",
+      "basis": "une grève"
+    },
+    {
+      "vorm": "privés de",
+      "nl": "zonder, beroofd van"
+    },
+    {
+      "vorm": "partisans",
+      "nl": "voorstanders",
+      "basis": "un partisan"
+    },
+    {
+      "vorm": "respirable",
+      "nl": "beter in te ademen, schoner"
+    },
+    {
+      "vorm": "pédale",
+      "nl": "fietst",
+      "basis": "pédaler"
+    },
+    {
+      "vorm": "suscite",
+      "nl": "roept op, veroorzaakt",
+      "basis": "susciter"
+    },
+    {
+      "vorm": "commerçants",
+      "nl": "winkeliers",
+      "basis": "un commerçant"
+    },
+    {
+      "vorm": "stationnement",
+      "nl": "parkeren",
+      "basis": "le stationnement"
+    },
+    {
+      "vorm": "ferait fuir",
+      "nl": "zou wegjagen",
+      "basis": "faire fuir"
+    },
+    {
+      "vorm": "banlieue",
+      "nl": "voorsteden",
+      "basis": "la banlieue"
+    },
+    {
+      "vorm": "cadre",
+      "nl": "iemand met een kantoorbaan, manager",
+      "basis": "un cadre"
+    },
+    {
+      "vorm": "artisan",
+      "nl": "vakman (zelfstandige)",
+      "basis": "un artisan"
+    },
+    {
+      "vorm": "cohabitation",
+      "nl": "het samenleven",
+      "basis": "la cohabitation"
+    },
+    {
+      "vorm": "paisible",
+      "nl": "vreedzaam"
+    },
+    {
+      "vorm": "grillent les feux rouges",
+      "nl": "door rood rijden",
+      "basis": "griller un feu rouge"
+    },
+    {
+      "vorm": "frôlent",
+      "nl": "rakelings passeren",
+      "basis": "frôler"
+    },
+    {
+      "vorm": "trajets",
+      "nl": "ritten",
+      "basis": "un trajet"
+    },
+    {
+      "vorm": "urbanistes",
+      "nl": "stedenbouwkundigen",
+      "basis": "un urbaniste"
+    },
+    {
+      "vorm": "ampleur",
+      "nl": "omvang",
+      "basis": "l'ampleur"
+    },
+    {
+      "vorm": "aisés",
+      "nl": "welgestelde",
+      "basis": "aisé"
+    }
+  ],
+  "vragen": [
+    {
+      "type": "mc",
+      "vraagtype": "detail",
+      "vraag": "Wat wordt in alinea 1 beschreven?",
+      "opties": [
+        "Het grote aantal fietsongelukken in Parijs.",
+        "De grote verandering in het verkeer: de fiets heeft in delen van Parijs de auto ingehaald.",
+        "Het plan van de burgemeester om auto's te verbieden.",
+        "De problemen met files van auto's op de rue de Rivoli."
+      ],
+      "antwoord": 1,
+      "uitleg": "Vroeger was fietsen « presque de l'aventure », nu zijn er files... van fietsers, en meer fietsers dan automobilisten op de rue de Rivoli.",
+      "bewijs": {
+        "alinea": 1,
+        "zin": "les cyclistes sont désormais bien plus nombreux que les automobilistes"
+      }
+    },
+    {
+      "type": "juistonjuist",
+      "vraagtype": "juistonjuist",
+      "vraag": "Geef van elke bewering aan of deze volgens alinea 2 wel of niet heeft bijgedragen aan de opkomst van de fiets.",
+      "beweringen": [
+        {
+          "t": "investeringen van de gemeente in fietsvoorzieningen",
+          "juist": true,
+          "uitleg": "« La mairie a investi des centaines de millions d'euros »"
+        },
+        {
+          "t": "stakingen in het openbaar vervoer",
+          "juist": true,
+          "uitleg": "« Les grèves des transports »"
+        },
+        {
+          "t": "hogere prijzen voor parkeren",
+          "juist": false,
+          "uitleg": "Dat staat niet in alinea 2. Parkeren komt pas in alinea 4 ter sprake, en daar gaat het over verdwenen parkeerplaatsen, niet over prijzen."
+        },
+        {
+          "t": "de gezondheidscrisis",
+          "juist": true,
+          "uitleg": "« la crise sanitaire »"
+        }
+      ],
+      "uitleg": "« Ce changement ne doit rien au hasard » = deze verandering is geen toeval. Daarna volgen de oorzaken.",
+      "bewijs": {
+        "alinea": 2,
+        "zin": "Ce changement ne doit rien au hasard."
+      }
+    },
+    {
+      "type": "mc",
+      "vraagtype": "signaalwoord",
+      "vraag": "Alinea 4 begint met « La transformation suscite pourtant de vives tensions. » Wat is de functie van « pourtant » hier?",
+      "opties": [
+        "Het kondigt een voorbeeld aan bij alinea 3.",
+        "Het geeft een tegenstelling aan met het positieve beeld in alinea 3.",
+        "Het geeft een gevolg aan van alinea 3.",
+        "Het vat alinea 1 tot en met 3 samen."
+      ],
+      "antwoord": 1,
+      "uitleg": "Alinea 3 = voordelen (« le bilan est clair »). Alinea 4 = spanningen en kritiek. « pourtant » markeert die omslag.",
+      "bewijs": {
+        "alinea": 4,
+        "zin": "La transformation suscite pourtant de vives tensions."
+      }
+    },
+    {
+      "type": "open",
+      "vraagtype": "detail",
+      "vraag": "Waarom is de fiets volgens Stéphane (alinea 4) voor hem geen oplossing?",
+      "model": "Omdat hij elke ochtend 40 kilometer moet afleggen (hij woont ver van zijn werk); dat is niet te doen op de fiets.",
+      "uitleg": "Hij zet zichzelf tegenover « un cadre qui habite à côté de son bureau ».",
+      "bewijs": {
+        "alinea": 4,
+        "zin": "Pour moi, qui fais 40 kilomètres chaque matin, c'est impossible"
+      }
+    },
+    {
+      "type": "mc",
+      "vraagtype": "detail",
+      "vraag": "Wat staat er in alinea 5 over de verkeersveiligheid?",
+      "opties": [
+        "Fietsen in Parijs is gevaarlijker geworden per rit.",
+        "Het absolute aantal fietsongelukken is gestegen, maar het risico per rit is gedaald.",
+        "Het aantal fietsongelukken is gedaald.",
+        "Voetgangers veroorzaken de meeste ongelukken."
+      ],
+      "antwoord": 1,
+      "uitleg": "« Le nombre d'accidents … a augmenté, même si le risque, rapporté au nombre de trajets, a baissé. » « rapporté à » = in verhouding tot. Meer fietsers = meer ongelukken in totaal, maar per rit minder kans.",
+      "bewijs": {
+        "alinea": 5,
+        "zin": "Le nombre d'accidents impliquant des vélos a d'ailleurs augmenté, même si le risque, rapporté au nombre de trajets, a baissé."
+      }
+    },
+    {
+      "type": "citeer",
+      "vraagtype": "citeren",
+      "vraag": "Citeer de eerste twee woorden van de zin in alinea 6 waarin staat wat nu de grootste uitdaging is.",
+      "antwoorden": [
+        "Le défi",
+        "« Le défi"
+      ],
+      "uitleg": "« Le défi, maintenant, est de faire en sorte que la ville du vélo ne soit pas seulement celle des Parisiens aisés du centre. »",
+      "bewijs": {
+        "alinea": 6,
+        "zin": "« Le défi, maintenant, est de faire en sorte que la ville du vélo ne soit pas seulement celle des Parisiens aisés du centre. »"
+      }
+    },
+    {
+      "type": "mc",
+      "vraagtype": "hoofdgedachte",
+      "vraag": "Welke titel past het best bij de hele tekst?",
+      "opties": [
+        "Parijs: fietsstad zonder problemen",
+        "De fiets verovert Parijs, maar niet iedereen profiteert",
+        "Auto's verboden in het centrum van Parijs",
+        "Waarom Amsterdam beter is dan Parijs"
+      ],
+      "antwoord": 1,
+      "uitleg": "De tekst beschrijft het succes van de fiets (alinea 1-3) en de keerzijde (alinea 4-6): « des gagnants et des perdants ».",
+      "bewijs": {
+        "alinea": 6,
+        "zin": "« Toute transformation de cette ampleur crée des gagnants et des perdants »"
+      }
+    }
+  ]
+}

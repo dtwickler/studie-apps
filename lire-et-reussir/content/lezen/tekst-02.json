@@ -1,0 +1,183 @@
+{
+  "titel": "La seconde main, nouvelle mode ?",
+  "thema": "consumptie & duurzaamheid",
+  "bron": "Oefentekst in examenstijl (zelf geschreven; personen en cijfers zijn verzonnen)",
+  "tekst": [
+    "Il y a dix ans, porter des vêtements d'occasion était souvent synonyme de manque d'argent. Aujourd'hui, c'est presque devenu un signe de distinction. Sur les applications de revente, des millions de Français achètent et vendent chaque mois jeans, pulls et baskets. Chez les 18-25 ans, un achat de vêtement sur trois serait désormais un achat de seconde main.",
+    "Les raisons de ce succès sont multiples. Il y a d'abord le prix : un manteau de marque coûte parfois quatre fois moins cher d'occasion. Mais l'argument écologique pèse de plus en plus lourd. L'industrie textile est en effet l'une des plus polluantes au monde : il faut environ 2 700 litres d'eau pour fabriquer un seul tee-shirt en coton.",
+    "« Acheter d'occasion, c'est donner une deuxième vie à un vêtement qui existe déjà », résume Inès, étudiante à Lille, qui n'a pas acheté de vêtement neuf depuis deux ans. Elle y voit aussi un plaisir : « On trouve des pièces uniques. Personne dans ma classe n'a le même pull que moi. »",
+    "Ce tableau idyllique mérite toutefois d'être nuancé. Selon plusieurs économistes, la seconde main pourrait paradoxalement encourager la surconsommation. Comme on sait qu'on pourra revendre facilement un vêtement, on hésite moins à l'acheter, neuf ou non. Certains utilisateurs achètent ainsi un article pour le porter une seule fois, avant de le remettre en vente.",
+    "À cela s'ajoute la question du transport. Chaque colis envoyé d'un bout à l'autre du pays a lui aussi un coût environnemental. « Un pull qui voyage trois fois en camionnette n'est plus vraiment un produit écologique », remarque Thomas Bernard, spécialiste de la mode durable.",
+    "Faut-il pour autant renoncer à la seconde main ? Certainement pas, selon lui. « Le vêtement le plus écologique reste celui qu'on a déjà dans son armoire. Ensuite vient celui qu'on achète d'occasion, près de chez soi. Le problème, ce n'est pas l'occasion, c'est la quantité. »"
+  ],
+  "glossarium": [
+    {
+      "vorm": "d'occasion",
+      "nl": "tweedehands"
+    },
+    {
+      "vorm": "synonyme",
+      "nl": "hetzelfde als, teken van",
+      "basis": "synonyme de"
+    },
+    {
+      "vorm": "manque",
+      "nl": "gebrek",
+      "basis": "le manque"
+    },
+    {
+      "vorm": "revente",
+      "nl": "doorverkoop",
+      "basis": "la revente"
+    },
+    {
+      "vorm": "désormais",
+      "nl": "inmiddels, voortaan"
+    },
+    {
+      "vorm": "pèse",
+      "nl": "weegt",
+      "basis": "peser"
+    },
+    {
+      "vorm": "pièces uniques",
+      "nl": "unieke kledingstukken",
+      "basis": "une pièce unique"
+    },
+    {
+      "vorm": "idyllique",
+      "nl": "ideaal, rooskleurig"
+    },
+    {
+      "vorm": "nuancé",
+      "nl": "genuanceerd",
+      "basis": "nuancer"
+    },
+    {
+      "vorm": "surconsommation",
+      "nl": "overconsumptie",
+      "basis": "la surconsommation"
+    },
+    {
+      "vorm": "hésite",
+      "nl": "aarzelt",
+      "basis": "hésiter"
+    },
+    {
+      "vorm": "colis",
+      "nl": "pakket",
+      "basis": "un colis"
+    },
+    {
+      "vorm": "camionnette",
+      "nl": "bestelbusje",
+      "basis": "une camionnette"
+    },
+    {
+      "vorm": "pour autant",
+      "nl": "daarom (toch)"
+    },
+    {
+      "vorm": "renoncer",
+      "nl": "afzien van, opgeven",
+      "basis": "renoncer à"
+    },
+    {
+      "vorm": "armoire",
+      "nl": "kledingkast",
+      "basis": "une armoire"
+    }
+  ],
+  "vragen": [
+    {
+      "type": "mc",
+      "vraagtype": "detail",
+      "vraag": "Wat wordt in alinea 1 duidelijk over tweedehands kleding?",
+      "opties": [
+        "Vroeger kochten alleen jongeren tweedehands kleding.",
+        "Het imago van tweedehands kleding is sterk verbeterd.",
+        "Tweedehands kleding is duurder geworden dan nieuwe kleding.",
+        "De meeste kleding van 18- tot 25-jarigen is tweedehands."
+      ],
+      "antwoord": 1,
+      "uitleg": "Vroeger betekende het geldgebrek, nu is het « presque devenu un signe de distinction ». D is te sterk: het gaat om een op de drie aankopen, niet om de meeste.",
+      "bewijs": {
+        "alinea": 1,
+        "zin": "Aujourd'hui, c'est presque devenu un signe de distinction."
+      }
+    },
+    {
+      "type": "open",
+      "vraagtype": "detail",
+      "vraag": "Noem de twee redenen die in alinea 2 worden gegeven voor het succes van tweedehands kleding.",
+      "model": "1) De prijs: tweedehands is veel goedkoper. 2) Het milieu: de textielindustrie vervuilt erg (veel waterverbruik).",
+      "uitleg": "« Il y a d'abord » kondigt de eerste reden aan, « Mais » de tweede, die steeds belangrijker wordt.",
+      "bewijs": {
+        "alinea": 2,
+        "zin": "Il y a d'abord le prix"
+      }
+    },
+    {
+      "type": "mc",
+      "vraagtype": "tekstverband",
+      "vraag": "Hoe verhoudt alinea 4 zich tot de alinea's 1 tot en met 3?",
+      "opties": [
+        "Alinea 4 geeft een voorbeeld bij alinea 3.",
+        "Alinea 4 geeft een oorzaak van wat in alinea 1-3 staat.",
+        "Alinea 4 nuanceert het positieve beeld uit alinea 1-3.",
+        "Alinea 4 trekt een conclusie uit alinea 1-3."
+      ],
+      "antwoord": 2,
+      "uitleg": "« Ce tableau idyllique mérite toutefois d'être nuancé »: het mooie beeld wordt genuanceerd. « toutefois » is een signaalwoord van tegenstelling.",
+      "bewijs": {
+        "alinea": 4,
+        "zin": "Ce tableau idyllique mérite toutefois d'être nuancé."
+      }
+    },
+    {
+      "type": "mc",
+      "vraagtype": "verwijzing",
+      "vraag": "Waar verwijst « l' » in « on hésite moins à l'acheter » (alinea 4) naar?",
+      "opties": [
+        "naar de tweedehands-app",
+        "naar een kledingstuk",
+        "naar de overconsumptie",
+        "naar de econoom"
+      ],
+      "antwoord": 1,
+      "uitleg": "Lees terug: « on pourra revendre facilement un vêtement, on hésite moins à l'acheter ». « l' » = dat kledingstuk.",
+      "bewijs": {
+        "alinea": 4,
+        "zin": "Comme on sait qu'on pourra revendre facilement un vêtement, on hésite moins à l'acheter, neuf ou non."
+      }
+    },
+    {
+      "type": "alinea",
+      "vraagtype": "alinea-zoeken",
+      "vraag": "In welke alinea wordt een milieunadeel genoemd dat te maken heeft met het verzenden van kleding?",
+      "antwoord": 5,
+      "uitleg": "Alinea 5 gaat over « la question du transport »: elk pakket dat door het land reist, belast het milieu.",
+      "bewijs": {
+        "alinea": 5,
+        "zin": "Chaque colis envoyé d'un bout à l'autre du pays a lui aussi un coût environnemental."
+      }
+    },
+    {
+      "type": "mc",
+      "vraagtype": "houding",
+      "vraag": "Wat is volgens Thomas Bernard (alinea 6) het echte probleem?",
+      "opties": [
+        "dat mensen te veel kleding kopen, nieuw of tweedehands",
+        "dat tweedehands kleding slecht is voor het milieu",
+        "dat tweedehands kleding van verre moet komen",
+        "dat mensen hun oude kleding weggooien"
+      ],
+      "antwoord": 0,
+      "uitleg": "« Le problème, ce n'est pas l'occasion, c'est la quantité. » Het gaat om de hoeveelheid. Hij zegt juist dat je tweedehands níet moet opgeven.",
+      "bewijs": {
+        "alinea": 6,
+        "zin": "Le problème, ce n'est pas l'occasion, c'est la quantité."
+      }
+    }
+  ]
+}

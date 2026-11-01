@@ -1,0 +1,232 @@
+{
+  "titel": "Marseille réserve ses calanques",
+  "thema": "toerisme & natuur",
+  "bron": "Oefentekst in examenstijl (zelf geschreven; personen en cijfers zijn verzonnen)",
+  "tekst": [
+    "Eau turquoise, falaises blanches, pins accrochés à la roche : les calanques de Marseille font rêver. Trop, peut-être. Certains jours d'été, plus de 3 000 visiteurs se pressent sur la petite plage de Sugiton, un espace qui ne devrait pas en accueillir plus de quelques centaines. Pour protéger ce site exceptionnel, le parc national a pris une décision radicale : en juillet et en août, il faut désormais réserver gratuitement sa place en ligne.",
+    "La mesure n'a pas été prise à la légère. Depuis une dizaine d'années, les gardes du parc constatent les dégâts provoqués par la surfréquentation : sentiers élargis, végétation piétinée, déchets abandonnés. Le sol, privé de ses plantes, est emporté par la pluie à chaque orage. « Certains endroits ont perdu en quelques étés ce que la nature avait mis des siècles à construire », déplore Julien Arnaud, garde depuis quinze ans.",
+    "Le système est simple : sur le site du parc, chacun choisit une date et reçoit un QR code. Sans ce code, des agents peuvent refuser l'accès au sentier. Le nombre de places est limité à 400 par jour. Le reste de l'année, l'accès reste libre.",
+    "Si les défenseurs de l'environnement applaudissent, la mesure ne fait pas l'unanimité. Certains Marseillais ont le sentiment qu'on leur confisque un lieu qui fait partie de leur identité. « Mon grand-père venait déjà se baigner ici. Maintenant, il faut un ticket comme pour un concert ! », s'agace Karim, 34 ans. D'autres craignent que les touristes se reportent simplement sur les calanques voisines, encore libres d'accès.",
+    "Le parc assure suivre la situation de près et n'exclut pas d'étendre le dispositif si nécessaire. Il rappelle aussi que la réservation est gratuite et que des places sont réservées chaque jour pour les habitants des quartiers voisins.",
+    "Marseille n'est pas un cas unique. De Venise, qui fait payer un droit d'entrée aux visiteurs d'un jour, aux îles de Bréhat en Bretagne, de plus en plus de sites limitent leur accès. Une évolution qui pose une question délicate : comment préserver la nature sans la transformer en un lieu réservé à ceux qui savent s'organiser à l'avance ?"
+  ],
+  "glossarium": [
+    {
+      "vorm": "calanques",
+      "nl": "rotsbaaien (bij Marseille)",
+      "basis": "une calanque"
+    },
+    {
+      "vorm": "falaises",
+      "nl": "rotswanden, kliffen",
+      "basis": "une falaise"
+    },
+    {
+      "vorm": "accrochés",
+      "nl": "vastgeklemd",
+      "basis": "accrocher"
+    },
+    {
+      "vorm": "se pressent",
+      "nl": "verdringen zich",
+      "basis": "se presser"
+    },
+    {
+      "vorm": "radicale",
+      "nl": "ingrijpend",
+      "basis": "radical"
+    },
+    {
+      "vorm": "à la légère",
+      "nl": "lichtvaardig, zomaar"
+    },
+    {
+      "vorm": "gardes",
+      "nl": "parkwachters",
+      "basis": "un garde"
+    },
+    {
+      "vorm": "garde",
+      "nl": "parkwachter",
+      "basis": "un garde"
+    },
+    {
+      "vorm": "dégâts",
+      "nl": "schade",
+      "basis": "les dégâts"
+    },
+    {
+      "vorm": "surfréquentation",
+      "nl": "te grote drukte (te veel bezoekers)",
+      "basis": "la surfréquentation"
+    },
+    {
+      "vorm": "élargis",
+      "nl": "verbreed",
+      "basis": "élargir"
+    },
+    {
+      "vorm": "piétinée",
+      "nl": "vertrapt",
+      "basis": "piétiner"
+    },
+    {
+      "vorm": "privé de",
+      "nl": "beroofd van, zonder"
+    },
+    {
+      "vorm": "emporté",
+      "nl": "weggespoeld, meegevoerd",
+      "basis": "emporter"
+    },
+    {
+      "vorm": "orage",
+      "nl": "onweersbui",
+      "basis": "un orage"
+    },
+    {
+      "vorm": "déplore",
+      "nl": "betreurt",
+      "basis": "déplorer"
+    },
+    {
+      "vorm": "l'unanimité",
+      "nl": "ne fait pas l'unanimité = niet iedereen is het ermee eens",
+      "basis": "faire l'unanimité"
+    },
+    {
+      "vorm": "confisque",
+      "nl": "afpakt, in beslag neemt",
+      "basis": "confisquer"
+    },
+    {
+      "vorm": "s'agace",
+      "nl": "ergert zich",
+      "basis": "s'agacer"
+    },
+    {
+      "vorm": "se reportent",
+      "nl": "uitwijken naar",
+      "basis": "se reporter sur"
+    },
+    {
+      "vorm": "dispositif",
+      "nl": "systeem, maatregel",
+      "basis": "un dispositif"
+    },
+    {
+      "vorm": "délicate",
+      "nl": "lastig, gevoelig",
+      "basis": "délicat"
+    }
+  ],
+  "vragen": [
+    {
+      "type": "mc",
+      "vraagtype": "detail",
+      "vraag": "Welke maatregel heeft het nationale park genomen (alinea 1)?",
+      "opties": [
+        "Bezoekers moeten in de zomer entree betalen.",
+        "Het strand van Sugiton is in de zomer gesloten.",
+        "Bezoekers moeten in juli en augustus vooraf gratis online reserveren.",
+        "Er mogen alleen nog inwoners van Marseille komen."
+      ],
+      "antwoord": 2,
+      "uitleg": "« il faut désormais réserver gratuitement sa place en ligne » in juli en augustus. Gratis, dus niet betalen.",
+      "bewijs": {
+        "alinea": 1,
+        "zin": "en juillet et en août, il faut désormais réserver gratuitement sa place en ligne"
+      }
+    },
+    {
+      "type": "open",
+      "vraagtype": "detail",
+      "vraag": "Noem drie soorten schade door te veel bezoekers die in alinea 2 genoemd worden.",
+      "model": "Verbrede paden, vertrapte begroeiing, achtergelaten afval (en: de grond spoelt weg bij regen).",
+      "uitleg": "De dubbele punt na « surfréquentation : » kondigt een opsomming aan. Drie van de vier punten zijn genoeg.",
+      "bewijs": {
+        "alinea": 2,
+        "zin": "sentiers élargis, végétation piétinée, déchets abandonnés"
+      }
+    },
+    {
+      "type": "mc",
+      "vraagtype": "woordbetekenis",
+      "vraag": "Wat bedoelt Julien Arnaud met zijn uitspraak in alinea 2?",
+      "opties": [
+        "De natuur herstelt zich elke zomer snel.",
+        "In korte tijd is schade ontstaan die heel lang duurt om te herstellen.",
+        "De calanques zijn al eeuwen een toeristische trekpleister.",
+        "De parkwachters werken er al eeuwen aan de natuur."
+      ],
+      "antwoord": 1,
+      "uitleg": "« en quelques étés » (in een paar zomers) tegenover « des siècles » (eeuwen): wat de natuur langzaam opbouwde, is snel verloren.",
+      "bewijs": {
+        "alinea": 2,
+        "zin": "« Certains endroits ont perdu en quelques étés ce que la nature avait mis des siècles à construire »"
+      }
+    },
+    {
+      "type": "juistonjuist",
+      "vraagtype": "juistonjuist",
+      "vraag": "Geef van elke bewering aan of deze wel of niet overeenkomt met alinea 3 tot en met 5.",
+      "beweringen": [
+        {
+          "t": "Het hele jaar door mogen er maximaal 400 mensen per dag komen.",
+          "juist": false,
+          "uitleg": "« Le reste de l'année, l'accès reste libre. » De limiet geldt alleen in de zomer."
+        },
+        {
+          "t": "Sommige inwoners zijn bang dat toeristen naar andere baaien uitwijken.",
+          "juist": true,
+          "uitleg": "« se reportent simplement sur les calanques voisines »"
+        },
+        {
+          "t": "Het park sluit niet uit dat de maatregel wordt uitgebreid.",
+          "juist": true,
+          "uitleg": "« n'exclut pas d'étendre le dispositif »"
+        },
+        {
+          "t": "Voor buurtbewoners zijn er elke dag plaatsen apart gehouden.",
+          "juist": true,
+          "uitleg": "« des places sont réservées chaque jour pour les habitants des quartiers voisins »"
+        }
+      ],
+      "uitleg": "Bewering 1 is een typische valkuil: 400 klopt, maar 'het hele jaar' niet.",
+      "bewijs": {
+        "alinea": 3,
+        "zin": "Le reste de l'année, l'accès reste libre."
+      }
+    },
+    {
+      "type": "mc",
+      "vraagtype": "tekstverband",
+      "vraag": "Wat is de functie van alinea 6?",
+      "opties": [
+        "Er wordt een oplossing voor het probleem in Marseille gegeven.",
+        "Het onderwerp wordt verbreed naar andere plekken en er wordt een dilemma gesteld.",
+        "Er wordt kritiek gegeven op de aanpak van Venetië.",
+        "De mening van Karim uit alinea 4 wordt weerlegd."
+      ],
+      "antwoord": 1,
+      "uitleg": "« Marseille n'est pas un cas unique » + andere voorbeelden (Venetië, Bréhat) = verbreding. De tekst eindigt met een vraag: hoe bescherm je de natuur zonder dat die alleen voor goed georganiseerde mensen is? Dat is een dilemma.",
+      "bewijs": {
+        "alinea": 6,
+        "zin": "Marseille n'est pas un cas unique."
+      }
+    },
+    {
+      "type": "citeer",
+      "vraagtype": "citeren",
+      "vraag": "Citeer de eerste twee woorden van de zin in alinea 4 waaruit blijkt dat sommige Marseillais het gevoel hebben dat hun iets wordt afgepakt.",
+      "antwoorden": [
+        "Certains Marseillais"
+      ],
+      "uitleg": "« confisquer » = afpakken, in beslag nemen. De zin: « Certains Marseillais ont le sentiment qu'on leur confisque un lieu… »",
+      "bewijs": {
+        "alinea": 4,
+        "zin": "Certains Marseillais ont le sentiment qu'on leur confisque un lieu qui fait partie de leur identité."
+      }
+    }
+  ]
+}

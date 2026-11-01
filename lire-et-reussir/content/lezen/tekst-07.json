@@ -1,0 +1,254 @@
+{
+  "titel": "Le grand gaspillage",
+  "thema": "voeding & milieu",
+  "bron": "Oefentekst in examenstijl (zelf geschreven; personen en cijfers zijn verzonnen)",
+  "tekst": [
+    "Un yaourt dont la date est dépassée d'un jour, une salade un peu fanée, le reste du dîner d'hier : chaque année, chaque Français jette en moyenne une trentaine de kilos de nourriture. Si l'on additionne les pertes des agriculteurs, des industriels, des magasins et des restaurants, ce sont plusieurs millions de tonnes qui finissent à la poubelle. Un gâchis économique, mais aussi écologique : produire, transporter et conserver ces aliments consomme de l'eau, de l'énergie et émet des gaz à effet de serre.",
+    "Depuis 2016, la France fait figure de pionnière dans ce domaine. Une loi interdit aux grandes surfaces de détruire leurs invendus encore consommables : elles doivent les donner à des associations caritatives. Une mesure saluée à l'étranger, et que plusieurs pays ont depuis imitée.",
+    "Mais sur le terrain, la réalité est plus compliquée. « Nous recevons parfois des palettes entières de produits qui expirent le lendemain », explique Paul, bénévole dans une banque alimentaire de Toulouse. « Nous n'avons ni le temps ni assez de frigos pour tout distribuer. Une partie finit quand même à la poubelle, simplement chez nous plutôt qu'au supermarché. »",
+    "Les foyers restent pourtant les premiers responsables. Beaucoup de consommateurs confondent encore la « date limite de consommation », qui concerne les produits frais comme la viande, et la « date de durabilité minimale », indiquée sur les pâtes ou les biscuits. Après cette seconde date, le produit peut perdre un peu de goût, mais il ne présente aucun danger.",
+    "Pour changer les habitudes, de nouvelles initiatives voient le jour. Des applications permettent d'acheter à petit prix, en fin de journée, des paniers d'invendus de boulangeries ou de restaurants. Certaines cantines scolaires pèsent les restes des plateaux pour sensibiliser les élèves. Au lycée Jean-Moulin de Lille, le gaspillage a ainsi baissé de 40 % en un an.",
+    "Reste que la lutte contre le gaspillage ne peut pas reposer uniquement sur la bonne volonté de chacun. Pour de nombreux experts, il faudra aussi revoir notre manière de produire et de vendre : des promotions qui poussent à acheter trop, des portions trop grandes, des exigences esthétiques qui font rejeter les fruits « moches ». Le problème commence bien avant notre réfrigérateur."
+  ],
+  "glossarium": [
+    {
+      "vorm": "dépassée",
+      "nl": "verstreken",
+      "basis": "dépasser"
+    },
+    {
+      "vorm": "fanée",
+      "nl": "verlept",
+      "basis": "faner"
+    },
+    {
+      "vorm": "jette",
+      "nl": "gooit weg",
+      "basis": "jeter"
+    },
+    {
+      "vorm": "additionne",
+      "nl": "optelt",
+      "basis": "additionner"
+    },
+    {
+      "vorm": "pertes",
+      "nl": "verliezen",
+      "basis": "une perte"
+    },
+    {
+      "vorm": "gâchis",
+      "nl": "verspilling",
+      "basis": "le gâchis"
+    },
+    {
+      "vorm": "conserver",
+      "nl": "bewaren"
+    },
+    {
+      "vorm": "émet",
+      "nl": "stoot uit",
+      "basis": "émettre"
+    },
+    {
+      "vorm": "gaz à effet de serre",
+      "nl": "broeikasgassen",
+      "basis": "les gaz à effet de serre"
+    },
+    {
+      "vorm": "fait figure de pionnière",
+      "nl": "geldt als voorloper",
+      "basis": "faire figure de"
+    },
+    {
+      "vorm": "grandes surfaces",
+      "nl": "grote supermarkten",
+      "basis": "une grande surface"
+    },
+    {
+      "vorm": "invendus",
+      "nl": "onverkochte producten",
+      "basis": "les invendus"
+    },
+    {
+      "vorm": "caritatives",
+      "nl": "liefdadigheids-",
+      "basis": "caritatif"
+    },
+    {
+      "vorm": "saluée",
+      "nl": "geprezen",
+      "basis": "saluer"
+    },
+    {
+      "vorm": "sur le terrain",
+      "nl": "in de praktijk"
+    },
+    {
+      "vorm": "expirent",
+      "nl": "verlopen, over de datum gaan",
+      "basis": "expirer"
+    },
+    {
+      "vorm": "bénévole",
+      "nl": "vrijwilliger",
+      "basis": "un bénévole"
+    },
+    {
+      "vorm": "banque alimentaire",
+      "nl": "voedselbank",
+      "basis": "une banque alimentaire"
+    },
+    {
+      "vorm": "foyers",
+      "nl": "huishoudens",
+      "basis": "un foyer"
+    },
+    {
+      "vorm": "confondent",
+      "nl": "verwarren",
+      "basis": "confondre"
+    },
+    {
+      "vorm": "voient le jour",
+      "nl": "ontstaan",
+      "basis": "voir le jour"
+    },
+    {
+      "vorm": "paniers",
+      "nl": "pakketten, manden",
+      "basis": "un panier"
+    },
+    {
+      "vorm": "pèsent",
+      "nl": "wegen",
+      "basis": "peser"
+    },
+    {
+      "vorm": "plateaux",
+      "nl": "dienbladen",
+      "basis": "un plateau"
+    },
+    {
+      "vorm": "sensibiliser",
+      "nl": "bewust maken"
+    },
+    {
+      "vorm": "reposer",
+      "nl": "afhangen van (reposer sur)",
+      "basis": "reposer sur"
+    },
+    {
+      "vorm": "exigences",
+      "nl": "eisen",
+      "basis": "une exigence"
+    },
+    {
+      "vorm": "moches",
+      "nl": "lelijk",
+      "basis": "moche"
+    }
+  ],
+  "vragen": [
+    {
+      "type": "open",
+      "vraagtype": "detail",
+      "vraag": "Waarom is voedselverspilling volgens alinea 1 ook een milieuprobleem? Noem één reden.",
+      "model": "Voor het produceren, vervoeren en bewaren van voedsel zijn water en energie nodig, en er komen broeikasgassen bij vrij.",
+      "uitleg": "Na « mais aussi écologique : » volgt de uitleg. Eén van de elementen noemen is genoeg, als je het verband met het voedsel legt.",
+      "bewijs": {
+        "alinea": 1,
+        "zin": "produire, transporter et conserver ces aliments consomme de l'eau, de l'énergie et émet des gaz à effet de serre"
+      }
+    },
+    {
+      "type": "mc",
+      "vraagtype": "detail",
+      "vraag": "Wat regelt de wet uit 2016 (alinea 2)?",
+      "opties": [
+        "Supermarkten mogen geen producten meer verkopen die bijna over de datum zijn.",
+        "Grote supermarkten moeten eetbare onverkochte producten weggeven aan goede doelen.",
+        "Consumenten krijgen een boete als ze voedsel weggooien.",
+        "Restaurants moeten hun restjes aan klanten meegeven."
+      ],
+      "antwoord": 1,
+      "uitleg": "« interdit … de détruire leurs invendus encore consommables : elles doivent les donner à des associations caritatives ».",
+      "bewijs": {
+        "alinea": 2,
+        "zin": "elles doivent les donner à des associations caritatives"
+      }
+    },
+    {
+      "type": "mc",
+      "vraagtype": "verwijzing",
+      "vraag": "Wat bedoelt Paul met « chez nous plutôt qu'au supermarché » (alinea 3)?",
+      "opties": [
+        "Dat de voedselbank meer voedsel krijgt dan de supermarkt verkoopt.",
+        "Dat het weggooien van voedsel zich deels gewoon verplaatst van de supermarkt naar de voedselbank.",
+        "Dat supermarkten liever zelf het voedsel uitdelen.",
+        "Dat de voedselbank beter is in het bewaren van voedsel dan de supermarkt."
+      ],
+      "antwoord": 1,
+      "uitleg": "Een deel belandt « quand même à la poubelle »: toch in de prullenbak, alleen nu bij de voedselbank in plaats van bij de supermarkt. Het probleem verschuift.",
+      "bewijs": {
+        "alinea": 3,
+        "zin": "Une partie finit quand même à la poubelle, simplement chez nous plutôt qu'au supermarché."
+      }
+    },
+    {
+      "type": "juistonjuist",
+      "vraagtype": "juistonjuist",
+      "vraag": "Geef van elke bewering aan of deze wel of niet overeenkomt met alinea 4.",
+      "beweringen": [
+        {
+          "t": "Volgens de tekst gooien huishoudens het meeste voedsel weg.",
+          "juist": true,
+          "uitleg": "« Les foyers restent pourtant les premiers responsables. »"
+        },
+        {
+          "t": "Pasta mag je na de 'date de durabilité minimale' niet meer eten.",
+          "juist": false,
+          "uitleg": "Het product kan wat smaak verliezen, maar « ne présente aucun danger »."
+        },
+        {
+          "t": "De 'date limite de consommation' staat op verse producten zoals vlees.",
+          "juist": true,
+          "uitleg": "« qui concerne les produits frais comme la viande »"
+        }
+      ],
+      "uitleg": "Vergelijk met Nederland: 'te gebruiken tot' (vers, strikt) en 'ten minste houdbaar tot' (lang houdbaar, soepel).",
+      "bewijs": {
+        "alinea": 4,
+        "zin": "il ne présente aucun danger"
+      }
+    },
+    {
+      "type": "alinea",
+      "vraagtype": "alinea-zoeken",
+      "vraag": "In welke alinea wordt een concreet resultaat van een maatregel op een school genoemd?",
+      "antwoord": 5,
+      "uitleg": "Op het lycée Jean-Moulin daalde de verspilling met 40% in één jaar.",
+      "bewijs": {
+        "alinea": 5,
+        "zin": "Au lycée Jean-Moulin de Lille, le gaspillage a ainsi baissé de 40 % en un an."
+      }
+    },
+    {
+      "type": "mc",
+      "vraagtype": "hoofdgedachte",
+      "vraag": "Wat is de kern van de slotalinea (alinea 6)?",
+      "opties": [
+        "Consumenten moeten beter letten op houdbaarheidsdata.",
+        "Lelijke groenten en fruit zijn net zo gezond als mooie.",
+        "Verspilling bestrijden vraagt ook om veranderingen in productie en verkoop, niet alleen om goede wil van consumenten.",
+        "Supermarkten zijn de grootste verspillers."
+      ],
+      "antwoord": 2,
+      "uitleg": "« ne peut pas reposer uniquement sur la bonne volonté de chacun » + « il faudra aussi revoir notre manière de produire et de vendre ». B is maar een voorbeeld.",
+      "bewijs": {
+        "alinea": 6,
+        "zin": "il faudra aussi revoir notre manière de produire et de vendre"
+      }
+    }
+  ]
+}
